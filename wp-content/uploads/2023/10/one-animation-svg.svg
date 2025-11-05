@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" fill="#000000" viewBox="0 0 100 100" class="cf-icon-svg">
+    <style>
+@keyframes a0_t { 0% { transform: translate(50px,50.526316px) rotate(20deg) scale(1.05,1.05) translate(-41.668421px,-41.668421px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 25% { transform: translate(50px,50.526316px) rotate(0deg) scale(1,1) translate(-41.668421px,-41.668421px); } 100% { transform: translate(50px,50.526316px) rotate(0deg) scale(1,1) translate(-41.668421px,-41.668421px); } }
+@keyframes a0_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 8.3333% { opacity: 1; } 100% { opacity: 1; } }
+@keyframes cover_o { 0% { opacity: 1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 25% { opacity: 0; } 100% { opacity: 0; } }
+    </style>
+    <g filter="none">
+        <g opacity="0" filter="none" transform="translate(50,50.5263) rotate(20) scale(1.05,1.05) translate(-41.6684,-41.6684)" style="animation: 3s linear both a0_t, 3s linear both a0_o;">
+            <rect id="background" width="36.8421" height="47.3684" fill="#f2cdd6" rx="0" stroke="none" stroke-width="5.26316" stroke-dashoffset="0" stroke-dasharray="none" filter="none" transform="translate(41.6684,46.4053) translate(-18.4211,-23.6842)"/>
+            <path d="M86.4053,50.5263C86.4053,73.5391,67.7497,92.1947,44.7368,92.1947C21.724,92.1947,3.06842,73.5391,3.06842,50.5263C3.06842,27.5135,21.724,8.85789,44.7368,8.85789C55.788,8.85789,66.3865,13.2479,74.2009,21.0623C82.0152,28.8766,86.4053,39.4752,86.4053,50.5263ZM50.8737,34.2526L43.4105,34.2526L32.0526,42.5789L36.2947,48.3842L42.7263,43.4105L42.7263,68.7579L50.8684,68.7579Z" fill="#961d5e" stroke-width="5.26316" stroke-dashoffset="0" stroke-dasharray="none" filter="none" transform="translate(41.6684,41.6684) translate(-44.7368,-50.5263)"/>
+            <rect id="cover" width="36.8421" height="47.3684" fill="#961d5e" rx="0" stroke="none" opacity="1" stroke-width="5.26316" stroke-dashoffset="0" stroke-dasharray="none" filter="none" transform="translate(41.6684,46.4053) translate(-18.4211,-23.6842)" style="animation: 3s linear both cover_o;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" fill="#000000" width="100" height="100" viewBox="0 0 100 100" class="cf-icon-svg">
+    <style>
+@keyframes a1_t { 0% { transform: translate(50px,50.526316px) rotate(20deg); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 25% { transform: translate(50px,50.526316px) rotate(0deg); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(50px,50.526316px) rotate(0deg); } }
+@keyframes a0_t { 0% { transform: scale(1.05,1.05) translate(-41.668421px,-41.668421px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 25% { transform: scale(1,1) translate(-41.668421px,-41.668421px); } 100% { transform: scale(1,1) translate(-41.668421px,-41.668421px); } }
+@keyframes a0_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 8.3333% { opacity: 1; } 100% { opacity: 1; } }
+@keyframes cover_o { 0% { opacity: 1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 25% { opacity: 0; } 100% { opacity: 0; } }
+    </style>
+    <g filter="none">
+        <g style="animation: 3s linear both a1_t;">
+            <g opacity="0" filter="none" transform="translate(50,50.5263) rotate(20) scale(1.05,1.05) translate(-41.6684,-41.6684)" style="animation: 3s linear both a0_t, 3s linear both a0_o;">
+                <rect id="background" width="25.6895" height="37.1842" fill="#f2cdd6" rx="0" stroke="none" stroke-width="5.26316" stroke-dashoffset="0" stroke-dasharray="none" filter="none" transform="translate(41.9079,41.3132) translate(-12.8447,-18.5921)"/>
+                <path d="M86.4053,50.5263C86.4053,73.5391,67.7497,92.1947,44.7368,92.1947C21.724,92.1947,3.06842,73.5391,3.06842,50.5263C3.06842,27.5135,21.724,8.85789,44.7368,8.85789C55.788,8.85789,66.3865,13.2479,74.2009,21.0623C82.0152,28.8766,86.4053,39.4752,86.4053,50.5263ZM57.8211,61.6474L43.7316,61.6474L51.7263,54.5263C52.5088,53.814,53.2632,53.0912,53.9895,52.3579C54.7161,51.636,55.3701,50.8444,55.9421,49.9947C56.5147,49.1437,56.9664,48.2174,57.2842,47.2421C57.6229,46.1609,57.7881,45.0329,57.7737,43.9C57.8097,42.2778,57.4483,40.6715,56.7211,39.2211C56.0486,37.9195,55.0916,36.7862,53.9211,35.9053C52.7198,35.0141,51.3635,34.3538,49.9211,33.9579C48.4137,33.5348,46.8551,33.3223,45.2895,33.3263C43.6589,33.3167,42.0377,33.5727,40.4895,34.0842C39.0241,34.5664,37.6608,35.3159,36.4684,36.2947C35.2917,37.2708,34.3096,38.46,33.5737,39.8C32.784,41.249,32.2936,42.842,32.1316,44.4842L39.9789,45.5579C40.0732,44.1677,40.612,42.8447,41.5158,41.7842C43.2484,39.9861,46.0845,39.8567,47.9737,41.4895C48.7634,42.2792,49.187,43.363,49.1421,44.4789C49.1538,45.474,48.8838,46.452,48.3632,47.3C47.7885,48.2113,47.1006,49.0461,46.3158,49.7842L32.8632,61.9474L32.8632,68.7632L57.8211,68.7632Z" fill="#961d5e" stroke-width="5.26316" stroke-dashoffset="0" stroke-dasharray="none" filter="none" transform="translate(41.6684,41.6684) translate(-44.7368,-50.5263)"/>
+                <rect id="cover" width="32.2053" height="42.4474" fill="#961d5e" rx="0" stroke="none" opacity="1" stroke-width="5.26316" stroke-dashoffset="0" stroke-dasharray="none" filter="none" transform="translate(41.9079,41.3132) translate(-14.0974,-18.5921)" style="animation: 3s linear both cover_o;"/>
+            </g>
+        </g>
+    </g>
+</svg>
